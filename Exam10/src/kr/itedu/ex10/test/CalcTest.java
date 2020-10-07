@@ -22,5 +22,4 @@ class CalcTest {
 		n2 = 5;
 		Assert.assertEquals(n1 + n2, Calc.sum(n1, n2));
 	}
-
 }
